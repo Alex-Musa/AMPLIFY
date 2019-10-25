@@ -1,0 +1,19 @@
+{
+  "name": "amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Musa/AMPLIFY.git"
+  },
+  "author": "Alex Musa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Musa/AMPLIFY/issues"
+  },
+  "homepage": "https://github.com/Alex-Musa/AMPLIFY#readme"
+}
